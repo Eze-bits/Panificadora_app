@@ -1,0 +1,11 @@
+C:\UAI\7to cuat\lug\TP1\TP1\Datos\bin\Release\Datos.dll
+C:\UAI\7to cuat\lug\TP1\TP1\Datos\bin\Release\Datos.pdb
+C:\UAI\7to cuat\lug\TP1\TP1\Datos\obj\Release\Datos.csproj.AssemblyReference.cache
+C:\UAI\7to cuat\lug\TP1\TP1\Datos\obj\Release\Datos.csproj.CoreCompileInputs.cache
+C:\UAI\7to cuat\lug\TP1\TP1\Datos\obj\Release\Datos.dll
+C:\UAI\7to cuat\lug\TP1\TP1\Datos\obj\Release\Datos.pdb
+C:\UAI\7to cuat\lug\TP2\Datos\bin\Release\Datos.dll
+C:\UAI\7to cuat\lug\TP2\Datos\bin\Release\Datos.pdb
+C:\UAI\7to cuat\lug\TP2\Datos\obj\Release\Datos.csproj.CoreCompileInputs.cache
+C:\UAI\7to cuat\lug\TP2\Datos\obj\Release\Datos.dll
+C:\UAI\7to cuat\lug\TP2\Datos\obj\Release\Datos.pdb

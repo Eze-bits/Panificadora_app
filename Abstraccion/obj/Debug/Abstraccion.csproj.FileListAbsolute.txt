@@ -1,0 +1,11 @@
+C:\UAI\7to cuat\lug\TP2\Abstraccion\bin\Debug\Abstraccion.dll
+C:\UAI\7to cuat\lug\TP2\Abstraccion\bin\Debug\Abstraccion.pdb
+C:\UAI\7to cuat\lug\TP2\Abstraccion\obj\Debug\Abstraccion.csproj.CoreCompileInputs.cache
+C:\UAI\7to cuat\lug\TP2\Abstraccion\obj\Debug\Abstraccion.dll
+C:\UAI\7to cuat\lug\TP2\Abstraccion\obj\Debug\Abstraccion.pdb
+C:\UAI\7to cuat\lug\Panificadora_app\Abstraccion\bin\Debug\Abstraccion.dll
+C:\UAI\7to cuat\lug\Panificadora_app\Abstraccion\bin\Debug\Abstraccion.pdb
+C:\UAI\7to cuat\lug\Panificadora_app\Abstraccion\obj\Debug\Abstraccion.csproj.AssemblyReference.cache
+C:\UAI\7to cuat\lug\Panificadora_app\Abstraccion\obj\Debug\Abstraccion.csproj.CoreCompileInputs.cache
+C:\UAI\7to cuat\lug\Panificadora_app\Abstraccion\obj\Debug\Abstraccion.dll
+C:\UAI\7to cuat\lug\Panificadora_app\Abstraccion\obj\Debug\Abstraccion.pdb

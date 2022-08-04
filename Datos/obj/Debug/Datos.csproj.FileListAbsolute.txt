@@ -1,0 +1,11 @@
+C:\UAI\7to cuat\lug\TP2\Datos\bin\Debug\Datos.dll
+C:\UAI\7to cuat\lug\TP2\Datos\bin\Debug\Datos.pdb
+C:\UAI\7to cuat\lug\TP2\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\UAI\7to cuat\lug\TP2\Datos\obj\Debug\Datos.dll
+C:\UAI\7to cuat\lug\TP2\Datos\obj\Debug\Datos.pdb
+C:\UAI\7to cuat\lug\Panificadora_app\Datos\bin\Debug\Datos.dll
+C:\UAI\7to cuat\lug\Panificadora_app\Datos\bin\Debug\Datos.pdb
+C:\UAI\7to cuat\lug\Panificadora_app\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\UAI\7to cuat\lug\Panificadora_app\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\UAI\7to cuat\lug\Panificadora_app\Datos\obj\Debug\Datos.dll
+C:\UAI\7to cuat\lug\Panificadora_app\Datos\obj\Debug\Datos.pdb

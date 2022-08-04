@@ -1,0 +1,6 @@
+C:\UAI\7to cuat\lug\TP2\Seguridad\bin\Release\Seguridad.dll
+C:\UAI\7to cuat\lug\TP2\Seguridad\bin\Release\Seguridad.pdb
+C:\UAI\7to cuat\lug\TP2\Seguridad\obj\Release\Seguridad.csproj.CoreCompileInputs.cache
+C:\UAI\7to cuat\lug\TP2\Seguridad\obj\Release\Seguridad.dll
+C:\UAI\7to cuat\lug\TP2\Seguridad\obj\Release\Seguridad.pdb
+C:\UAI\7to cuat\lug\TP2\Seguridad\obj\Release\Seguridad.csproj.AssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\UAI\7to cuat\lug\TP2\Abstraccion\bin\Release\Abstraccion.dll
+C:\UAI\7to cuat\lug\TP2\Abstraccion\bin\Release\Abstraccion.pdb
+C:\UAI\7to cuat\lug\TP2\Abstraccion\obj\Release\Abstraccion.csproj.CoreCompileInputs.cache
+C:\UAI\7to cuat\lug\TP2\Abstraccion\obj\Release\Abstraccion.dll
+C:\UAI\7to cuat\lug\TP2\Abstraccion\obj\Release\Abstraccion.pdb

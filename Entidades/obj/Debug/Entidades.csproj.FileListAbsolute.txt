@@ -1,0 +1,11 @@
+C:\UAI\7to cuat\lug\TP2\Entidades\bin\Debug\Entidades.dll
+C:\UAI\7to cuat\lug\TP2\Entidades\bin\Debug\Entidades.pdb
+C:\UAI\7to cuat\lug\TP2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\UAI\7to cuat\lug\TP2\Entidades\obj\Debug\Entidades.dll
+C:\UAI\7to cuat\lug\TP2\Entidades\obj\Debug\Entidades.pdb
+C:\UAI\7to cuat\lug\Panificadora_app\Entidades\bin\Debug\Entidades.dll
+C:\UAI\7to cuat\lug\Panificadora_app\Entidades\bin\Debug\Entidades.pdb
+C:\UAI\7to cuat\lug\Panificadora_app\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\UAI\7to cuat\lug\Panificadora_app\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\UAI\7to cuat\lug\Panificadora_app\Entidades\obj\Debug\Entidades.dll
+C:\UAI\7to cuat\lug\Panificadora_app\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Clientes>
+  <Cliente>
+    <Nro_cliente>104</Nro_cliente>
+    <Nombre>Juan</Nombre>
+    <Apellido>Hernandez</Apellido>
+    <Email>asd@mail.com</Email>
+    <Calle>asd</Calle>
+    <Nro_casa>1232</Nro_casa>
+    <Localidad>moron</Localidad>
+    <Telefono_particular>123</Telefono_particular>
+    <DNI>654123</DNI>
+  </Cliente>
+  <Cliente>
+    <Nro_cliente>105</Nro_cliente>
+    <Nombre>pedro</Nombre>
+    <Apellido>valdez</Apellido>
+    <Email>asd@mail.com</Email>
+    <Calle>mitre</Calle>
+    <Nro_casa>123</Nro_casa>
+    <Localidad>moron</Localidad>
+    <Telefono_particular>44502213</Telefono_particular>
+    <DNI>16123698</DNI>
+  </Cliente>
+</Clientes>
